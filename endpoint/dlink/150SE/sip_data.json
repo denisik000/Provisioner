@@ -1,0 +1,31 @@
+{
+    "template_data":{
+        "category":[
+            {
+                "name":"Sip settings",
+                "subcategory":[
+                    {
+                        "name":"Sip Settings",
+                        "item":[
+                            {
+                                "variable":"$intervalregister",
+                                "default_value":"1800",
+                                "description":"Reregister interval (seconds)",
+                                "type":"input"
+                            },
+                            {
+                                "type":"break"
+                            },
+                            {
+                                "variable":"$intervalselftest",
+                                "default_value":"3600",
+                                "description":"Selftest interval (seconds)",
+                                "type":"input"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

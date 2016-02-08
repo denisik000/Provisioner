@@ -1,0 +1,28 @@
+{
+    "template_data":{
+        "category":[
+            {
+                "name":"Network settings",
+                "subcategory":[
+                    {
+                        "name":"General Settings",
+                        "item":[
+                            {
+                                "variable": "$version",
+                                "default_value": "2.0003",
+                                "description": "Configuration version:",
+                                "type":"input"
+                            },
+			    {
+				"variable": "$websecret",
+				"default_value": "admin",
+				"description": "Web access admin password (need for reboot) ",
+				"type": "input"
+			    }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

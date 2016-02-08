@@ -1,6 +1,6 @@
 {
   "data": {
-    "last_modified": 1395183811,
+    "last_modified": 1395183812,
     "package": "provisioner_net.tgz",
     "brands": [
       {
@@ -18,6 +18,10 @@
       {
         "name": "Digium",
         "directory": "digium"
+      },
+      {
+	"name": "D-Link",
+	"directory": "dlink"
       },
       {
         "name": "Grandstream",

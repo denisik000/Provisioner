@@ -1,0 +1,29 @@
+{
+  "data": {
+    "brands": {
+      "name": "D-Link",
+      "brand_id": "29",
+      "directory": "dlink",
+      "package": "dlink.tgz",
+      "md5sum": "fdc34215aa00f01a36abe73d22d6a236",
+      "last_modified": 1395183811,
+      "family_list": [
+        {
+          "id": "1",
+          "name": "D-Link DPH-150SE",
+          "directory": "150SE",
+          "description": "D-Link DPH-150SE",
+          "changelog": "",
+          "last_modified": null
+        }
+      ],
+      "oui_list": [
+        "84C9B2",
+        "EC2280",
+        "CCB255",
+        "FC7516"
+      ],
+      "changelog": "PACKAGER: "
+    }
+  }
+}
